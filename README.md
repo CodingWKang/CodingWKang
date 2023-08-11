@@ -7,6 +7,3 @@
     <a href="https://github.com/CodingWKang/CodingWKang/network/members"><img src="https://img.shields.io/github/forks/CodingWKang/CodingWKang.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=CodingWKang.CodingWKang" alt="visitors"/>   
 </p>
-
-<!--   my-header-img -->
-![](./src/header_.png)
