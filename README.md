@@ -7,7 +7,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=CodingWKang.CodingWKang" alt="visitors"/>   
 </p>
 
-<div align="center">
+<div align="left">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=CodingWKang" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWKang&layout=compact&langs_count=8" />
 <span>  </span>
